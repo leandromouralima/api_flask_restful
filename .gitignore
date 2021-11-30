@@ -1,4 +1,7 @@
 Avaliação.ipynb
+*.png
+*agrupado*.json
+*agrupado*.csv
 
 # Flask stuff:
 instance/
