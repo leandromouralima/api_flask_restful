@@ -1,9 +1,9 @@
 # api_flask_restful
-Exercício para criar uma API 
-
-## Instruções:
+Exercício para criar uma API.
 
 O banco de dados utilizado foi obtido do Kaggle: https://www.kaggle.com/johnharshith/world-happiness-report-2021-worldwide-mortality
+
+## Instruções:
 
 Rodar o arquivo api.py (python api.py)
 
@@ -19,4 +19,3 @@ O endereço "http://127.0.0.1:5000/" retorna as opções para realizar o filtro 
 Para realizar o filtro é necessário utilizar o caminho: "http://127.0.0.1:5000/populacao/0-5" por exemplo para filtrar países com até 5 milhões. 
 
 A API irá retornar um json com os dados filtrados e também irá persistir o .csv, .json e uma figura .png.
-
